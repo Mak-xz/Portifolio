@@ -3,7 +3,6 @@ import Footer from "../../components/footer"
 import Header from "../../components/header"
 import Menu from "../../components/menu"
 import { useState } from "react"
-import SkillsList from "../../components/sections/skills/skillsList"
 import ProjectsList from "../../components/sections/projects/projectsList"
 
 
